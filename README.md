@@ -7,4 +7,5 @@ a password generator to generate very strong/secure passwords
 # run the file
 ```python(3) passwords.py```
 
+# output
 ![Screenshot](output.png)
