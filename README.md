@@ -1,5 +1,5 @@
 # password-gen
-a password generator to generate very strong/secure passwords
+a password generator to generate very strong & secure passwords
 
 # install the requirements
 ```pip(3) install -r requirements.txt```
