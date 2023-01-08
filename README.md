@@ -1,11 +1,11 @@
 # password-gen
 a password generator to generate very strong & secure passwords
 
-# install the requirements
-```pip(3) install colorama```
+# requirements
+```pip install colorama```
 
 # run the code
-```python(3) passwords.py```
+```python passwords.py```
 
 # output
 ![Screenshot](output.png)
