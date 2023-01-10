@@ -1,8 +1,8 @@
-# setup
+## setup
 
 ```pip install colorama```
 
 ```python passwords.py```
 
-# output
+## output
 ![Screenshot](output.png)
