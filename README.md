@@ -2,6 +2,7 @@
 
 ```
 pip install colorama
+
 python passwords.py
 ```
 
