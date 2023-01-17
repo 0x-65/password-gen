@@ -1,7 +1,7 @@
 ## setup
 
-```
-#installing requirements
+```py
+#installing the requirements
 pip install colorama
 
 #running the script
