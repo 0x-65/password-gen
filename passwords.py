@@ -2,11 +2,12 @@ import os, secrets
 from colorama import Fore, Style
 
 def clear_console():
+    ''' clears the console '''
     os.system('cls' if os.name == 'nt' else 'clear')
 
 clear_console()
 
-length = int(input("enter the length of the password (1-999): "))
+length: int = int(input("enter the length of the password (1-999): "))
 password = secrets.token_urlsafe(length)
 
 clear_console()
