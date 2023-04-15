@@ -5,7 +5,7 @@
 pip install colorama
 
 #running the script
-python passwords.py
+python3 passwords.py
 ```
 
 ## output
